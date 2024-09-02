@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="ColorPrimaryDay">#0F2858</color>
+    <color name="ColorSecondaryDay">#A9C4D4</color>
+    <color name="ColorThirdDay">#F9F4EE</color>
+    <color name="ColorAdviseDay">#809FCACA</color>
+    <color name="ColorButtonDay">#B39FCACA</color>
+    <color name="ColorTextAccentDay">#0F2858</color>
+    <color name="WhiteTransparrent">#80FFFFFF</color>
+    <color name="LineColorDay">#579F94</color>
+    <color name="RedBarDay">#F29090</color>
+    <color name="YellowBarDay">#FDE37C</color>
+    <color name="GreenBarDay">#D5EE9B</color>
+    <color name="ButtonNight">#B382AAF8</color>
+    <color name="EveningWhite">#80FFFFFF</color>
+    <color name="NightAccentColor">#82AAF8</color>
+    <color name="NameEveningColor">#FFE6C0</color>
+    <color name="NameMorningColor">#F8D090</color>
+    <color name="NameNightColor">#82AAF8</color>
+    <color name="CardColorMorning">#B3F8D090</color>
+    <color name="CardColorEvening">#B3FFE6C0</color>
+    <color name="CardColorNight">#800F0C1F</color>
+    <color name="CardButtonColorNight">#CA532C</color>
+    <color name="WaterDropBlue">#84DBFF</color>
+    <color name="Grey">#949191</color>
+    <color name="Green">#058B43</color>
+    <color name="Red">#B2001A</color>
+    <color name="BarGreen">#D5EDB4</color>
+    <color name="BarYellow">#F3E69F</color>
+    <color name="BarRed">#EAABAB</color>
+    <color name="TransparentCardButtonColorNight">#80CA532C</color>
+
+</resources>

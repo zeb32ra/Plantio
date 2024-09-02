@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547590261851",
+    "project_id": "plantio-cb5b5",
+    "storage_bucket": "plantio-cb5b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547590261851:android:58a6a88336e445d692c37e",
+        "android_client_info": {
+          "package_name": "com.example.plantio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpJd9JirJLYFOO7wjz9SRGCtWLX-KAUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

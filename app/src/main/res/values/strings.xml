@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Plantio</string>
+    <string name="welcome_string">Добро пожаловать в <b>Plantio</b> - приложение, которое поможет вам ухаживать за вашими растениями. Как к вам можно обращаться?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Wonderful_day_home">Прекрасный день для заботы о растениях!</string>
+    <string name="Hello">Привет,</string>
+    <string name="My_plants">Мои растения</string>
+    <string name="Motivation1"><b>Даже огромный баобаб вырастает всего лишь из маленького семечка</b></string>
+    <string name="MyPlants">Мои\nРастения</string>
+
+    <string-array name="week_days">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+
+    <string-array name="actions">
+        <item>Полив</item>
+        <item>Опрыскивание</item>
+        <item>Удобрение</item>
+        <item>Обрезка</item>
+    </string-array>
+</resources>
